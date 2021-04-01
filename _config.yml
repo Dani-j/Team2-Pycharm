@@ -16,7 +16,7 @@
 title: team2-pycharm
 description: Team 2 Jekyll Themes for User Docs
 baseurl: "/team2-pycharm" # the subpath of your site, e.g. /blog
-url: "https://team2pycharm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dani-j.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"

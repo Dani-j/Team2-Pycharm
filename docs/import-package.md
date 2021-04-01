@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Package importing
 nav_order: 2
 ---
 
-# Configuration
+# Package importing
 {: .no_toc }
 
 

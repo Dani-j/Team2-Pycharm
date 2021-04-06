@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Debug
+title: Debugging Souce Code
 nav_order: 4
 ---
 
-# Debug You Python Source Code
+# Debug you Python source code
 {: .no_toc }
-In this procedure, we will share a project from CLion to GitHub. To be able to collaborate with other developers, projects must be shared on a version control platform such as Github. After completion, the project will be accessible from Github.
-
+In this procedure, we will debug your Python source code. To eleminate potential bugs, proggramers usually use debugging tools to debug their project. By the end of this procedure, you will be able to debug your Python project.
 
 ## Site logo
 

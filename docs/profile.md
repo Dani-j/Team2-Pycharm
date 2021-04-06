@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossary
+title: Profiling Project
 nav_order: 5
 ---
 

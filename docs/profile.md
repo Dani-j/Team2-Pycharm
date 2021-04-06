@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Profiling Project
+title: Profiling Application
 nav_order: 5
 ---
 

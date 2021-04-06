@@ -1,19 +1,15 @@
 ---
 layout: default
-title: Debugging Souce Code
+title: Debugging Application
 nav_order: 4
 ---
 
-# Debug you Python source code
+# Debug your Python source code
 {: .no_toc }
-In this procedure, we will debug your Python source code. To eleminate potential bugs, proggramers usually use debugging tools to debug their project. By the end of this procedure, you will be able to debug your Python project.
+In this procedure, we will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs in their project. By the end of this procedure, you will be able to debug your Python project.
 
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+## Pre-requisites
+Before you start debugging your source code, you need to open an existing project or create a new project.
 
 ## Search
 

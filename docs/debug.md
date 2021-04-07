@@ -6,11 +6,11 @@ nav_order: 4
 
 # Debug your Python application
 {: .no_toc }
-In this procedure, you will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs in their project. By the end of this procedure, you will be able to debug your Python project.
+In this procedure, you will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs in their project. By the end of this procedure, you will be able to debug your Python application.
 
 ## Pre-requisites
-Before debugging, make sure you have met the following requirements.
-* You have installed the Python interpreter.
+Before debugging, make sure you have met the following requirements:
+* You have installed the Python downloaded from [https://www.python.org](https://www.python.org).
 * You have opened an existing project or created a new project.
 
 ## Instructions
@@ -34,7 +34,7 @@ Before debugging, make sure you have met the following requirements.
 
     ![Step Over](../../assets/images/docs/debug/step_over.png "Run")
 
-6. From the ```variable``` window, you will notice that the application only add integers from one to four.
+6. From the ```variable``` window, you will notice that the application only calculate the sum from one to four.
 
     ![Step Over](../../assets/images/docs/debug/sum.png "Run")
 

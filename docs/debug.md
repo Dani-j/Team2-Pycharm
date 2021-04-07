@@ -4,13 +4,13 @@ title: Debugging Application
 nav_order: 4
 ---
 
-# Debug your Python source code
+# Debug your Python application
 {: .no_toc }
 In this procedure, you will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs in their project. By the end of this procedure, you will be able to debug your Python project.
 
 ## Pre-requisites
 Before debugging, make sure you have met the following requirements.
-* You have installed the Python interpreter
+* You have installed the Python interpreter.
 * You have opened an existing project or created a new project.
 
 ## Instructions
@@ -18,6 +18,14 @@ Before debugging, make sure you have met the following requirements.
 
     ![Sample Code](../../assets/images/docs/debug/foo.png "Sample Code")
 
-2. To find out what is going wrong, you have to set a breakpoint. To create breakpoints, just click the line number.
+2. To find out what is going wrong, you have to set a breakpoint. To create breakpoints, just click the line number in the gutter.
 
     ![Set Breakpoint](../../assets/images/docs/debug/breakpoint.png "Set Breakpoint")
+
+3. Next, click the ![Run](../../assets/images/docs/debug/run.png "Run") icon in the gutter. It is near the ```main``` function.
+
+    ![Run from gutter](../../assets/images/docs/debug/run_from_gutter.png "Run from gutter")
+
+4. Pycharm will start a debugging session, and you can see the ```Frames``` and the ```Variables``` in the Debug tool window.
+
+    ![Run from gutter](../../assets/images/docs/debug/debug_tool.png "Run from gutter")

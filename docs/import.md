@@ -30,8 +30,8 @@ When do python develping or engineering, people may need to use many packages. T
 
 ## Instructions
 
-Step 1. Click **PyCharm** in the upper left corner of your screen, then click **Perference** ![setp1](assets/images/docs/package/1.png?raw=true "step1")
-
+Step 1. Click **PyCharm** in the upper left corner of your screen, then click **Perference**   
+![step1](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.png?raw=true "step one")
 you will see a new window poped out (图）. you can also use Cmd+, (⌘,) for step 1
 
 Step 2. Click **Python Interpreter** under **Project:fileName**, there is the window where you start to either install, or unstall, or update your package, some people may see a lot of packages installed like show in this picture, some people may see an empaty page because there is no packaged installed.

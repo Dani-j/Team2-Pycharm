@@ -47,7 +47,7 @@ Step 3. Click **+** in the bottom right corner
 ![click add](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3.png?raw=true "click add")
 
 a new window will be poped out where you can search for the package you want to install
-![new window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3.5.png?raw=true "new window")
+![new window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3_5.png?raw=true "new window")
 
 
 Step4. Under the search bar, type in the package name, and find the package in the left bar. Here I typed package *Pandas*.  

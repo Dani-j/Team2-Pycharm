@@ -6,7 +6,7 @@ nav_order: 4
 
 # Debug your Python application
 {: .no_toc }
-In this procedure, you will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs in their project. By the end of this procedure, you will be able to debug your Python application.
+In this procedure, you will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs of their application. By the end of this procedure, you will be able to find bugs using Pycharm.
 
 ## Pre-requisites
 Before debugging, make sure you have met the following requirements:
@@ -41,3 +41,6 @@ Before debugging, make sure you have met the following requirements:
 7. At last, you modify the code using ```for number in range(1, 6)``` instead of ```for number in range(1, 5)```, and then you get the right output ```15```.
 
     ![Step Over](../../assets/images/docs/debug/fixed.png "Run")
+
+---
+Congratulations! You have learnt how to debug your Python application using Pycharm. If you have any issues, check out [troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).

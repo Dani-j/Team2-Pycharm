@@ -24,11 +24,6 @@ Before importing package, make sure you have met the following requirements:
 * You have installed the Python downloaded from [https://www.python.org](https://www.python.org).
 * You have opened an existing project or created a new project.
 
->![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
->> **Note**: You may meet an error when installing packages if your pip version is too old. In this case, just update your pip in terminal to fix the error. Code in terminal: `python -m pip install -U pip `
-<br />
-<br />
-
 ## Instructions
 
 1. Click **PyCharm** in the upper left corner of your screen, then click **Perference**. You can also just press Cmd, (⌘,).  

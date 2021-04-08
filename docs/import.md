@@ -63,5 +63,5 @@ tips: other ways to check if installed already. (note)
 >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: You can also install by pip.
 
-
+---
 Congratulations! You have learnt how to install Python package using in Pycharm. If you have any issues, check out troubleshooting.

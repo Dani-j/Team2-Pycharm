@@ -19,14 +19,15 @@ When do python develping or engineering, people may need to use many packages. T
 
 ---
 
+## Pre-requisites
+Before importing package, make sure you have met the following requirements:
+* You have installed the Python downloaded from [https://www.python.org](https://www.python.org).
+* You have opened an existing project or created a new project.
 
 >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: You may meet an error when installing packages if your pip version is too old. In this case, just update your pip in terminal to fix the error. Code in terminal: `python -m pip install -U pip `
 <br />
 <br />
-
-## Pre-requests
-- open your project in Pycharm
 
 ## Instructions
 
@@ -61,8 +62,9 @@ Step6. There will be a message show above the **Install Package** button, saying
 ![message](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/6_1.png?raw=true "message")
 
 
+
 tips: other ways to check if installed already.
 
 install by pip??
 
-
+Congratulations! You have learnt how to optimize your Python application using Pycharm. If you have any issues, check out troubleshooting.

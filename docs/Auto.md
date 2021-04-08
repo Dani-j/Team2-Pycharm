@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Package Importing
+title: Install packages
 nav_order: 2
 ---
 
-# Package importing
+# Install packages
 {: .no_toc }
 
+When do python develping or engineering, people may need to use many packages. To use these packages, need to make sure they are already installed. There are two ways to install packages using in PyCharm. This file will tell you the steps to install a new pacakage by using pandas as a example.
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -20,47 +20,17 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+>![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+>> **Note**: You may meet an error when installing packages if your pip version is too old. In this case, just update your pip in terminal to fix the error. Code in terminal: `python -m pip install -U pip `
+<br />
+<br />
 
+## Pre-requests
+- open your project in Pycharm
 
-## Site logo
+## Instructions
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-
-## Search
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+1. 
 
 ## Aux links
 
@@ -114,6 +84,12 @@ _note: `footer_content` is deprecated, but still supported. For a better experie
 - `gh_edit_branch` is the branch that the docs site is served from; defaults to `master`
 - `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
 - `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+
+
+>![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+>> **Note**: Replace processname with a keyword to search for your process name. The id of a process is different every time you start a process. If the process name exists, you will be able to see the id of your process, as shown below.
+<br />
+<br />
 
 ## Color scheme
 

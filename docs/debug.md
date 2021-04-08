@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Debugging Application
+title: Application Debugging
 nav_order: 4
 ---
 

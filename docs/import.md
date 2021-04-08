@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Importing Package 
+title: Package Importing
 nav_order: 2
 ---
 

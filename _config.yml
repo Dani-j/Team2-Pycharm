@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Team2-Pycharm
-description: Team 2 Jekyll Themes for User Docs
+title: How to Use Pycharm
+description: Advanced Pycharm manual for the end user
 baseurl: "/team2-pycharm" # the subpath of your site, e.g. /blog
-url: "https://team2-pycharm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "./" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"

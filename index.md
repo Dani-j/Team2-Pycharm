@@ -18,23 +18,24 @@ This document is intended for programmers who is new to PyCharm. The user should
 
 This document describes how to
 
-* xxx
-* xxx
-* xxx
-* xxx
-* xxx
+* Auto Format Code
+* Install packages
+* Application Debugging
+* Performance Optimization
+* Version Control with Git
   
 ## Software Versions
 
-This user documentation is written for CLion 2020.2.1 for Windows 10. If you are using older versions of PyCharm, we recommend updating your PyCharm before using this guide. As this is intended for Windows, there may be discrepancies with the MacOS version of the app.  
+This user documentation is written for PyCharm 2020.2.1. If you are using older versions of PyCharm, we recommend updating your PyCharm before using this guide.  
 
 ## Prerequisites
 
 The following requisites are needed in order to use the user guide:
 
 * Basic programming skills  
-* Windows 10 operating system
+* Windows 10 or MacOS operating system
 * PyCharm application
+* Internet Access
 * GitHub account
 
 ## Typographical Conventions

@@ -7,7 +7,7 @@ nav_order: 2
 # Install packages
 {: .no_toc }
 
-When do python develping or engineering, people may need to use many packages. To use these packages, need to make sure they are already installed. There are two ways to install packages using in PyCharm. This file will tell you the steps to install a new pacakage by using pandas as a example.
+In this procedure, you will import your first python package. To develop a python program or implement a function written by python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and be able to use in the PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
 
 {: .fs-6 .fw-300 }
 
@@ -31,7 +31,7 @@ Before importing package, make sure you have met the following requirements:
 
 ## Instructions
 
-Step 1. Click **PyCharm** in the upper left corner of your screen, then click **Perference**. You can also just press Cmd, (⌘,).  
+1. Click **PyCharm** in the upper left corner of your screen, then click **Perference**. You can also just press Cmd, (⌘,).  
 ![step1](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.png?raw=true "step one")  
 
 you will see a new window poped out show as below.  
@@ -63,8 +63,10 @@ Step6. There will be a message show above the **Install Package** button, saying
 
 
 
-tips: other ways to check if installed already.
+tips: other ways to check if installed already. (note)
 
-install by pip??
+>![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+>> **Note**: You can also install by pip.
 
-Congratulations! You have learnt how to optimize your Python application using Pycharm. If you have any issues, check out troubleshooting.
+
+Congratulations! You have learnt how to install Python package using in Pycharm. If you have any issues, check out troubleshooting.

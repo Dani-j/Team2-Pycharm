@@ -32,7 +32,7 @@ Before importing package, make sure you have met the following requirements:
 
     You will see a new window poped out shown as below.  
 
-    ![new poped window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.9.png?raw=true "new poped window") 
+  ![new poped window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.9.png?raw=true "new poped window") 
 
 2. Click **Python Interpreter** under **Project:fileName** to open the window where you can see all your installed packages. 
    
@@ -42,7 +42,7 @@ Before importing package, make sure you have met the following requirements:
   <br /> 
   <br>
 
-  
+
   ![find Python Interpreter](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/2_0.png?raw=true "find Python Interpreter") 
 
 

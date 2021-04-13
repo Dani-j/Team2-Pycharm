@@ -8,21 +8,19 @@ permalink: /
 
 # Introduction
 
-The document is written to show users how to use PyCharm properly, since these instructions are needed to work with the application. PyCharm is a cross-platform Integrated Development Environment (IDE) developed by JetBrains. PyCharm specializes in Python programming. PyCharm is one of the more popular IDEs due to.
+The purpose of this document shows users how to use PyCharm properly since these instructions are needed to work with the application. PyCharm is a cross-platform Integrated Development Environment (IDE) developed by JetBrains. PyCharm specializes in Python programming. PyCharm is one of the more popular IDEs due to its user-friendliness and strong debugging ability.
 
 ## Intended users
 
-This document is intended for programmers who is new to PyCharm. The user should possess enough Python knowledge that is able to write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
+This document is intended for programmers who are new to PyCharm. The user should have enough Python knowledge that can write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
 
 ## Procedures included
 
 This document describes how to
 
-* Auto Format Code
-* Install packages
-* Application Debugging
-* Performance Optimization
-* Version Control with Git
+* Install Packages
+* Debug Application
+* Optimize Performance
   
 ## Software Versions
 
@@ -42,25 +40,14 @@ The following requisites are needed in order to use the user guide:
 
 | Convention and Explanation                                                                              | Examples                                             |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Interactive elements: Interactive elements such as **buttons** are bolded.                                  | Click the **Open** button, Double click the **File** menu |
-| Dialog windows: Dialog windows are enclosed in a set of square brackets and end with the “window” word. | [mac open dialog window]                             |
+| Interactive elements: Interactive elements such as **buttons** are bolded.                                  | Click the **File** menu, Click the **Run...** button  |
+| Non-interactive elements: Non-interactive elements such as ```codes``` or ```windows``` are marked in code blocks.| codes: ```for number in range(1, 6)```, Windows: ```Frames``` and ```Variables```                             |
 
-## Notes and Warning Messages
+## Notes and Messages
 
-The following recommendation and warning messages are used to convey additional information about each step:
+The following icon is used to show notes and message of additional information about each step:
 
-★ Recommendation
-{: .label .label-blue }
-Recommendations provide more information about the best way to proceed with a particular step. They are always encased in a blue box and preceded by a star.
-
-✓ Success check
-{: .label .label-lime-green}
-Success checks are provided at the end of each instruction. They allow you to verify you completed a procedure correctly.
+  >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+ >>  
+ >> **Note**: Notes provide extra information about the step. They are always started with an green-circled exlclaimation marks icon and a bolded **Note** text.
   
-\* Note
-{: .label .label-green }
-Notes provide extra information about the step. They are always encased in a green box and preceded by an asterisk.
-  
-⚠ Caution
-{: .label .label-yellow }
-Cautions provide more information about potential risks that exist in each step. They are always encased in a yellow box and preceded by an exclamation mark enclosed in a circle.

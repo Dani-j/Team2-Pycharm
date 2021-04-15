@@ -16,7 +16,7 @@ Before importing package, make sure you have met the following requirements:
 
 ## Instructions
 
-1. Click **PyCharm** in the upper left corner of your screen, then click **Perferences**. You can also just press `Cmd`+`,` (`⌘`+`,`).  
+1. Click **File* in the upper left corner of your screen, then click **Setting**. You can also just press `Ctrl`+`Alt`+`S`.
    
     ![step1](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.png?raw=true "step one")  
 
@@ -26,11 +26,12 @@ Before importing package, make sure you have met the following requirements:
 
 2. Click **Python Interpreter** under **Project:fileName** to open the window where you can see all your installed packages. 
    
-    >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
-    >>  
-    >> **Note**: Some people may see an empaty page because there was no packaged installed before. 
+    ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+ 
+    **Note**: Some people may see an empaty page because there was no packaged installed before. 
     <br /> 
     <br>
+
 
     ![find Python Interpreter](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/2_0.png?raw=true "find Python Interpreter") 
 
@@ -45,15 +46,15 @@ Before importing package, make sure you have met the following requirements:
 
 4. In the search bar, type in the package name, and find the package in the left bar. Here was typed package *Pandas* as an example.  
    
-    >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
-    >>   
-    >> **Note**: Old version of PyCharm may has less pacakages avaiable that cause you cannot find the pacakge you want.
+    ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+    
+    **Note**: Old version of PyCharm may has less pacakages avaiable that cause you cannot find the pacakge you want.
     <br /> 
     <br /> 
     ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "find package")
 
 5. click **Install Package** to install
-   
+     
     ![Install Package button](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/5.png?raw=true "Install Package button")
 
 

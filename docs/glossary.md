@@ -23,5 +23,3 @@ nav_order: 6
 **Performance:** The amount of useful work accomplished by a computer system.
 
 **Session:**  A temporary and interactive information interchange between between a computer and user.
-
-**PEP8:** 

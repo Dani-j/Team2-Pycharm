@@ -20,7 +20,7 @@ Before importing package, make sure you have met the following requirements:
    
   ![step1](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.png?raw=true "step one")  
 
-    You will see a new window poped out shown as below.  
+  You will see a new window poped out shown as below.  
 
   ![new poped window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.9.png?raw=true "new poped window") 
 

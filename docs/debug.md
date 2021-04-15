@@ -30,9 +30,9 @@ Before debugging, make sure you have met the following requirements:
 
     ![Run from gutter](../../assets/images/docs/debug/debug_tool.png "Run from gutter")
 
-5. Click the step over icon in the Debug tool window to see what your code does line by line. Therefore, you need not to set a breakpoint for each line.
+5. Click the ![Step Over](../../assets/images/docs/debug/step_icon.png "Step Over") icon in the Debug tool window to see what your code does line by line. Therefore, you need not to set a breakpoint for each line.
 
-    ![Step Over](../../assets/images/docs/debug/step_over.png "Run")
+    ![Step Over](../../assets/images/docs/debug/step_over.png "Step Over")
 
 6. From the ```variable``` window, you will notice that the application only calculate the sum from one to four.
 

@@ -12,7 +12,7 @@ The purpose of this document shows users how to use PyCharm properly since these
 
 ## Intended users
 
-This document is intended for programmers who are new to PyCharm. The user should have enough Python knowledge that can write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
+This document is intended for programmers who are new to PyCharm. The user should know how package import works and be able write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
 
 ## Procedures included
 
@@ -24,14 +24,14 @@ This document describes how to
   
 ## Software Versions
 
-This user documentation is written for PyCharm 2020.2.1. If you are using older versions of PyCharm, we recommend updating your PyCharm before using this guide.  
+This user documentation is written for PyCharm 2020.2.1 for Windows 10. If you are using older versions of PyCharm, we recommend updating your PyCharm before using this guide. Because this is intended for Windows 10, there may be discrepancies with other operating system.
 
 ## Prerequisites
 
 The following requisites are needed in order to use the user guide:
 
 * Basic programming skills  
-* Windows 10 or MacOS operating system
+* Windows 10 operating system
 * PyCharm application
 * Internet Access
 * GitHub account

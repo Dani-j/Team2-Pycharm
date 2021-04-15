@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Application Debugging
+title: Eliminate Bugs
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Performance Optimization
+title: Optimize Applications
 nav_order: 5
 ---
 

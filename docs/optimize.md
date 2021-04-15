@@ -30,7 +30,7 @@ Before optimization, make sure you have met the following requirements:
 
     ![Menu Graph](../../assets/images/docs/profile/menu_graph.png "Menu Graph")
 
-5. Pycharm will show you a call graph, from which you can see the function ```bar``` in your code has called the ```built-in``` method.
+5. Pycharm will show you a call graph, and you can see the function ```bar``` in your code has called the ```built-in``` method.
 
     ![Call Graph](../../assets/images/docs/profile/call_graph.png "Call Graph")
 

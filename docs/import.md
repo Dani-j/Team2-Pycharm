@@ -1,23 +1,13 @@
 ---
 layout: default
-title: Install packages
+title: Install Packages
 nav_order: 2
 ---
 
-# Install packages
+# Install Python packages
 {: .no_toc }
 
 In this procedure, you will import your first python package. To develop a python program or implement a function written by python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and be able to use in the PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
-
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Pre-requisites
 Before importing package, make sure you have met the following requirements:

@@ -6,6 +6,8 @@ nav_order: 6
 
 # Glossary
 
+---
+
 **Application:** Software designed to help the user to perform specific tasks.
 
 **Breakpoint:**  An intentional stopping or pausing place in a program, put in place for debugging purposes.

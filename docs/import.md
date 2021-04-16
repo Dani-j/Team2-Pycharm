@@ -21,7 +21,7 @@ Before importing packages, make sure you have met the following requirements:
    
     ![step1](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.png?raw=true "step one")  
 
-    You will see the popup window shown below:
+    You will see the popup window shown below.
 
     ![new poped window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.9.png?raw=true "new poped window") 
 
@@ -41,7 +41,8 @@ Before importing packages, make sure you have met the following requirements:
    
     ![click add](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3.png?raw=true "click add")
 
-    A new window will pop up where you can search for the package you want to install:
+    A new window will pop up where you can search for the package you want to install.
+
     ![new window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3_5.png?raw=true "new window")
 
 

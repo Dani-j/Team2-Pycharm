@@ -8,22 +8,22 @@ nav_order: 6
 
 ---
 
-**Application:** Software designed to help the user to perform specific tasks.
+**Application:** A program or a software that is designed to help the user perform specific tasks.
 
-**Breakpoint:**  An intentional stopping or pausing place in a program, put in place for debugging purposes.
+**Breakpoint:**  An intentional stopping point in a program, put in place for the purpose of debugging. With breakpoints, developers can identify the problematic code in the functions.
 
-**Debug:** The process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
+**Debug:** The process of locating and resolving problems or defects that prevent correct operation within computer programs, systems or software.
 
-**Execution:** The running of a computer program.
+**Execution:** The running of computer programs, systems or software.
 
-**Function:** A sequence of program instructions that performs a specific task, packaged as a unit.
+**Function:** A sequence of program instructions that is packaged as one unit and performs a specific task.
 
-**Method:**  A procedure associated with a message and an object.
+**Method:**  A function that takes parameters and returns a value.
 
-**Optimization:** The process of modifying a software system to make some aspect of it work more efficiently or use fewer resources.
+**Optimization:** The process of modifying computer programs, systems or software to make them more efficient, run faster or consume less resources.
 
-**Package:** A set of related functions that are easily shareable and extend the functionality of python beyond its base functions
+**Package:** A set of related functions that are reusable, expandable and shareable, saving programmers’ effort to “reinventing the wheel”.
 
-**Performance:** The amount of useful work accomplished by a computer system.
+**Performance:** The efficiency of accomplishing work by computer programs, systems or software.
 
-**Session:**  A temporary and interactive information interchange between between a computer and user.
+**Session:**  An interactive information interchange between the user and the computer.

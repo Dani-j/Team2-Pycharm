@@ -12,7 +12,7 @@ The purpose of this document shows users how to use PyCharm properly since these
 
 ## Intended users
 
-This document is intended for programmers who are new to PyCharm. The user should know how package import works and be able write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
+This document is intended for Python programmers who are new to PyCharm. The user should know how package import works and be able write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
 
 ## Procedures included
 

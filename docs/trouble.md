@@ -16,4 +16,4 @@ nav_order: 6
 | 空白 | 空白 | 空白|
 | 空白 | 空白 | 空白|
 | 空白 | 空白 | 空白|
-{: style="width: 1000px" }
+{: style="width: 700px" }

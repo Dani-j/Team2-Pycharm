@@ -11,7 +11,7 @@ In this procedure, you will import your first Python package. To develop a pytho
 
 ## Pre-requisites
 Before importing packages, make sure you have met the following requirements:
-* You have installed Python rom [https://www.python.org](https://www.python.org).
+* You have installed Python from [https://www.python.org](https://www.python.org).
 * You have PIP installed for Python. If not, pelease click [here](https://phoenixnap.com/kb/install-pip-windows) and follow the instructions to install.
 * You have opened an existing project or created a new project.
 

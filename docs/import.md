@@ -7,7 +7,7 @@ nav_order: 2
 # Install Python packages
 {: .no_toc }
 
-In this procedure, you will import your first Python package. To develop a python program or implement a function written in Python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and ready for use in PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
+In this procedure, you will import your first Python package. To develop a python program or implement a function written in Python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and ready for use in PyCharm. By the end of this procedure, you will be able to install any existing python package using PyCharm.
 
 ## Pre-requisites
 Before importing packages, make sure you have met the following requirements:

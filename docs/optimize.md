@@ -14,7 +14,7 @@ Before optimization, make sure you have met the following requirements:
 * You have opened an existing project or created a new project.
 
 ## Instructions
-1. The following is a piece of code for demonstration, and you will optimize it using Pycharm.
+1. The following is a piece of code for demonstration, and you will optimize it using PyCharm.
 
     ![Sample Code](../../assets/images/docs/profile/code.png "Sample Code")
 

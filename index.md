@@ -45,9 +45,10 @@ The following prerequisites are needed in order to use the user guide:
 
 ## Notes and Messages
 
-The following icon is used to show notes and message of additional information about each step:
+The following icon is used to show notes and messages with additional information about each step:
 
   >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
  >>  
- >> **Note**: Notes provide extra information about the step. They are always started with an green-circled exlclaimation marks icon and a bolded **Note** text.
+ >> **Note**: Notes provide extra information about the step. They are always indicated with a green-circled exclamation mark icon and a bolded **Note** text.
+
   

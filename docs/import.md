@@ -71,7 +71,8 @@ Before importing package, make sure you have met the following requirements:
 
 ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
    
-**Note**: You can also install by pip. Please cilck [there](https://docs.python.org/3/installing/index.html) to see the details.
+<br>
+**Note**: You can also install Python packages by pip. Please cilck [there](https://docs.python.org/3/installing/index.html) to see the details.
 <br>
 <br>
 

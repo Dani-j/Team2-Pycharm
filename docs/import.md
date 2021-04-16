@@ -32,6 +32,7 @@ Before importing packages, make sure you have met the following requirements:
     **Note**: Some people may see an empty page if you have never installed a package before.
     <br /> 
     <br>
+    <br>
 
     ![find Python Interpreter](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/2_0.png?raw=true "find Python Interpreter") 
 
@@ -56,7 +57,7 @@ Before importing packages, make sure you have met the following requirements:
     **Note**: Older versions of PyCharm may have fewer packages available, causing you not to be able to find the package you want.
     <br /> 
     <br /> 
-    
+
     ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/pandas.png?raw=true "find package")
 
 

@@ -57,7 +57,6 @@ Before importing packages, make sure you have met the following requirements:
     **Note**: Older versions of PyCharm may have fewer packages available, causing you not to be able to find the package you want.
     <br /> 
     <br /> 
-
     ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/pandas.png?raw=true "find package")
 
 

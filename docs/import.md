@@ -68,10 +68,10 @@ Before importing package, make sure you have met the following requirements:
    
     ![message](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/6_1.png?raw=true "message")
 
+<br>
 
 ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
-   
-<br>
+
 **Note**: You can also install Python packages by pip. Please cilck [there](https://docs.python.org/3/installing/index.html) to see the details.
 <br>
 <br>

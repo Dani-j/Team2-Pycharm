@@ -43,4 +43,4 @@ Before debugging, make sure you have met the following requirements:
     ![Step Over](../../assets/images/docs/debug/fixed.png "Run")
 
 ---
-Congratulations! You have learnt how to debug your Python application using Pycharm. If you have any issues, check out [troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).
+Congratulations! You have learnt how to debug your Python application using Pycharm. If you have any issues, check out [Troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).

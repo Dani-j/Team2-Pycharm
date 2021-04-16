@@ -39,4 +39,4 @@ Before optimization, make sure you have met the following requirements:
     ![Navigate](../../assets/images/docs/profile/menu_nav.png "Navigate")
 
 ---
-Congratulations! You have learnt how to optimize your Python application using Pycharm. If you have any issues, check out [troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).
+Congratulations! You have learnt how to optimize your Python application using Pycharm. If you have any issues, check out [Troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).

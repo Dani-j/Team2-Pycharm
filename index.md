@@ -19,8 +19,8 @@ This document is intended for Python programmers who are new to PyCharm. Users s
 This document describes how to
 
 * Install Packages
-* Debug Application
-* Optimize Performance
+* Eliminate Bugs
+* Optimize Applications
   
 ## Software Versions
 
@@ -45,7 +45,7 @@ The following prerequisites are needed in order to use the user guide:
 
 ## Notes and Messages
 
-The following icon is used to show notes and messages with additional information about each step:
+This icon is used to show notes and messages with additional information about each step:
 
   >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
  >>  

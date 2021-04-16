@@ -8,11 +8,11 @@ permalink: /
 
 # Introduction
 
-The purpose of this document shows users how to use PyCharm properly since these instructions are needed to work with the application. PyCharm is a cross-platform Integrated Development Environment (IDE) developed by JetBrains. PyCharm specializes in Python programming. PyCharm is one of the more popular IDEs due to its user-friendliness and strong debugging ability.
+The purpose of this document shows users how to use PyCharm properly. PyCharm is a cross-platform Integrated Development Environment (IDE) developed by JetBrains. PyCharm specializes in Python programming. PyCharm is one of the more popular IDEs due to its user-friendliness and strong debugging ability.
 
 ## Intended users
 
-This document is intended for Python programmers who are new to PyCharm. The user should know how package import works and be able write and compile a basic Python program (a basic Python program includes a main function that could be run by the Python compiler in PyCharm).
+This document is intended for Python programmers who are new to PyCharm. Users should know how to import packages and should be able to write and compile a basic Python program. The basic Python program must include a main function that can be run by the Python compiler in PyCharm.
 
 ## Procedures included
 
@@ -24,11 +24,11 @@ This document describes how to
   
 ## Software Versions
 
-This user documentation is written for PyCharm 2020.2.1 for Windows 10. If you are using older versions of PyCharm, we recommend updating your PyCharm before using this guide. Because this is intended for Windows 10, there may be discrepancies with other operating system.
+This user documentation is written for PyCharm 2020.2.1 for Windows 10. If you are using older versions of PyCharm, we recommend updating your PyCharm before using this guide. Because this is intended for Windows 10, there may be discrepancies with other operating systems.
 
 ## Prerequisites
 
-The following requisites are needed in order to use the user guide:
+The following prerequisites are needed in order to use the user guide:
 
 * Basic programming skills  
 * Windows 10 operating system

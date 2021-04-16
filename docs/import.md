@@ -33,7 +33,6 @@ Before importing packages, make sure you have met the following requirements:
     <br /> 
     <br>
 
-
     ![find Python Interpreter](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/2_0.png?raw=true "find Python Interpreter") 
 
 
@@ -47,7 +46,7 @@ Before importing packages, make sure you have met the following requirements:
 
 4. In the search bar, type in the package name. Here, the *pandas* package was typed as an example.
    
-    ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "find package")
+    ![search package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "search package")
 
 
 5.  Find the package on the left-hand-side, and click the package you want to install. Make sure the desired package is highlighted in dark blue.
@@ -57,7 +56,8 @@ Before importing packages, make sure you have met the following requirements:
     **Note**: Older versions of PyCharm may have fewer packages available, causing you not to be able to find the package you want.
     <br /> 
     <br /> 
-    图
+    
+    ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/pandas.png?raw=true "find package")
 
 
 6. Click **Install Package** to install   

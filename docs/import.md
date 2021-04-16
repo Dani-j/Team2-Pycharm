@@ -64,7 +64,7 @@ Before importing package, make sure you have met the following requirements:
     ![Install Package button](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/5.png?raw=true "Install Package button")
 
 
-7. There will be a message showing above the **Install Package** button, saying Pacakge 'pacakge name' installed sucessfully, which means pacakge the was sucessfully installed
+7. There will be a message saying Pacakge 'pacakge name' installed sucessfully, showing above the **Install Package** button. If that message appears, It means the pacakge was sucessfully installed
    
     ![message](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/6_1.png?raw=true "message")
 

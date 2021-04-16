@@ -7,11 +7,12 @@ nav_order: 2
 # Install Python packages
 {: .no_toc }
 
-In this procedure, you will import your first python package. To develop a python program or implement a function written by python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and be able to be used in the PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
+In this procedure, you will import your first Python package. To develop a python program or implement a function written in Python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and ready for use in PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
 
 ## Pre-requisites
 Before importing packages, make sure you have met the following requirements:
-* You have installed the Python downloaded from [https://www.python.org](https://www.python.org).
+* You have installed Python rom [https://www.python.org](https://www.python.org).
+* You have PIP installed for Python. If not, pelease click [here](https://phoenixnap.com/kb/install-pip-windows) and follow the instructions to install.
 * You have opened an existing project or created a new project.
 
 ## Instructions
@@ -20,15 +21,15 @@ Before importing packages, make sure you have met the following requirements:
    
     ![step1](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.png?raw=true "step one")  
 
-    You will see a new window popped out shown as below.  
+    You will see the popup window shown below:
 
     ![new poped window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/1.9.png?raw=true "new poped window") 
 
-2. Click **Python Interpreter** under **Project:fileName** （here the file name is Exams as an example) to open the window where you can see all your installed packages. 
+2. Click **Python Interpreter** under **Project:fileName** （here the file name is *Exams*) to open the window where you can see all your installed packages.
    
     ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
  
-    **Note**: Some people may see an empty page because there was no package installed before. 
+    **Note**: Some people may see an empty page if you have never installed a package before.
     <br /> 
     <br>
 
@@ -36,24 +37,24 @@ Before importing packages, make sure you have met the following requirements:
     ![find Python Interpreter](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/2_0.png?raw=true "find Python Interpreter") 
 
 
-3. Click **+** in the bottom left corner to start to choose the available packages to install
+3. Click **+** in the bottom left to choose from the packages available for installation.
    
     ![click add](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3.png?raw=true "click add")
 
-    A new window will be popped out where you can search for the package you want to install
+    A new window will pop up where you can search for the package you want to install:
     ![new window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3_5.png?raw=true "new window")
 
 
-4. In the search bar, type in the package name. Here was typed package *pandas* as an example.
+4. In the search bar, type in the package name. Here, the *pandas* package was typed as an example.
    
     ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "find package")
 
 
-5. Find the package in the left bar, and click the package, make sure the package is highlighted in blue.
+5.  Find the package on the left-hand-side, and click the package you want to install. Make sure the desired package is highlighted in dark blue.
    
     ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
     
-    **Note**: Old version of PyCharm may have fewer packages available that cause you cannot find the package you want.
+    **Note**: Older versions of PyCharm may have fewer packages available, causing you not to be able to find the package you want.
     <br /> 
     <br /> 
     图
@@ -64,7 +65,7 @@ Before importing packages, make sure you have met the following requirements:
     ![Install Package button](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/5.png?raw=true "Install Package button")
 
 
-7. There will be a message saying Package ‘package name’ installed successfully, showing above the **Install Package** button. If that message appears, It means the pacakge was sucessfully installed
+7. There will be a message saying Package ‘package name’ installed successfully. It will be displayed above the  **Install Package** button. If that message appears, it means the package was successfully installed.
    
     ![message](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/6_1.png?raw=true "message")
 
@@ -72,9 +73,9 @@ Before importing packages, make sure you have met the following requirements:
 
 ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
 
-**Note**: You can also install Python packages by pip. Please cilck [there](https://docs.python.org/3/installing/index.html) to see the details.
+**Note**: You can also install Python packages by pip. Please click [there](https://docs.python.org/3/installing/index.html) to see the details.
 <br>
 <br>
 
 ---
-Congratulations! You have learnt how to install Python package using in Pycharm. If you have any issues, check out [Troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).
+Congratulations! You have learnt how to install Python packages using PyCharm. If you have any issues, check out [Troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).

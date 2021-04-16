@@ -6,15 +6,15 @@ nav_order: 4
 
 # Debug your Python application
 {: .no_toc }
-In this procedure, you will debug your first python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs of their application. By the end of this procedure, you will be able to find bugs using Pycharm.
+In this procedure, you learn how to debug a python application. To eliminate any potential bugs, programmers usually use debugging tools to find bugs in their application. By the end of this procedure, you will be able to find bugs using PyCharm.
 
 ## Pre-requisites
 Before debugging, make sure you have met the following requirements:
-* You have installed the Python downloaded from [https://www.python.org](https://www.python.org).
+* You have installed Python from [https://www.python.org](https://www.python.org).
 * You have opened an existing project or created a new project.
 
 ## Instructions
-1. The following is a piece of code for demonstration, and you want to use it to calculate the sum from one to five. However, there is a bug in it, so you get an output of 10 instead of 15.
+1. The following is a piece of code for demonstration, Its purpose is to calculate the sum from one to five. However, there is a bug in it, so you get an output of 10 instead of 15.
 
     ![Sample Code](../../assets/images/docs/debug/foo.png "Sample Code")
 
@@ -26,11 +26,11 @@ Before debugging, make sure you have met the following requirements:
 
     ![Run from gutter](../../assets/images/docs/debug/run_from_gutter.png "Run from gutter")
 
-4. Pycharm will start a debugging session, and you can see the ```Frames``` and the ```Variables``` in the Debug tool window.
+4. Pycharm will start a debugging session, and you can see the ```Frames``` and the ```Variables``` in the Debug window.
 
     ![Run from gutter](../../assets/images/docs/debug/debug_tool.png "Run from gutter")
 
-5. Click the ![Step Over](../../assets/images/docs/debug/step_icon.png "Step Over") icon in the Debug tool window to see what your code does line by line. Therefore, you need not to set a breakpoint for each line.
+5. Click the ![Step Over](../../assets/images/docs/debug/step_icon.png "Step Over") icon in the Debug window to see what your code does line by line. 
 
     ![Step Over](../../assets/images/docs/debug/step_over.png "Step Over")
 

@@ -44,7 +44,7 @@ Before importing package, make sure you have met the following requirements:
     ![new window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3_5.png?raw=true "new window")
 
 
-4. In the search bar, type in the package name Here was typed package *pandas* as an example.
+4. In the search bar, type in the package name. Here was typed package *pandas* as an example.
    
     ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "find package")
 
@@ -69,9 +69,9 @@ Before importing package, make sure you have met the following requirements:
     ![message](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/6_1.png?raw=true "message")
 
 
->![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
->>   
->> **Note**: You can also install by pip.
+![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+   
+**Note**: You can also install by pip. Please cilck [there](https://docs.python.org/3/installing/index.html) to see the details.
 <br>
 <br>
 

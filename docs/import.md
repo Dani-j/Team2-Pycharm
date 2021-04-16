@@ -7,7 +7,7 @@ nav_order: 2
 # Install Python packages
 {: .no_toc }
 
-In this procedure, you will import your first python package. To develop a python program or implement a function written by python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and be able to use in the PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
+In this procedure, you will import your first python package. To develop a python program or implement a function written by python, programmers usually need to use many packages. To use those packages, programmers need to make sure the packages are already installed and be able to be used in the PyCharm. By the end of this procedure, you will be able to install any existing python package using Pycharm.
 
 ## Pre-requisites
 Before importing package, make sure you have met the following requirements:
@@ -44,27 +44,30 @@ Before importing package, make sure you have met the following requirements:
     ![new window](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/3_5.png?raw=true "new window")
 
 
-4. In the search bar, type in the package name, and find the package in the left bar. Here was typed package *Pandas* as an example.  
+4. In the search bar, type in the package name Here was typed package *pandas* as an example.
+   
+    ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "find package")
+
+
+5. Find the package in the left bar, and click the pacakge, make sure the pacakge is highlighted in blue.
    
     ![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
     
     **Note**: Old version of PyCharm may has less pacakages avaiable that cause you cannot find the pacakge you want.
     <br /> 
     <br /> 
-    ![find package](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/4_0.png?raw=true "find package")
+    图
 
-5. click **Install Package** to install
-     
+
+6. Click **Install Package** to install   
+   
     ![Install Package button](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/5.png?raw=true "Install Package button")
 
 
-6. There will be a message showing above the **Install Package** button, saying Pacakge 'pacakge name' installed sucessfully, which means pacakge the was sucessfully installed
+7. There will be a message showing above the **Install Package** button, saying Pacakge 'pacakge name' installed sucessfully, which means pacakge the was sucessfully installed
    
     ![message](https://raw.githubusercontent.com/Dani-j/team2-pycharm/gh-pages/assets/images/docs/package/6_1.png?raw=true "message")
 
-
-
-tips: other ways to check if installed already. (note)
 
 >![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
 >>   

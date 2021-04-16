@@ -76,4 +76,4 @@ Before importing package, make sure you have met the following requirements:
 <br>
 
 ---
-Congratulations! You have learnt how to install Python package using in Pycharm. If you have any issues, check out troubleshooting.
+Congratulations! You have learnt how to install Python package using in Pycharm. If you have any issues, check out [troubleshooting]({{ site.baseurl }}{% link docs/trouble.md %}).

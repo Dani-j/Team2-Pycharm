@@ -14,7 +14,7 @@ Before debugging, make sure you have met the following requirements:
 * You have opened an existing project or created a new project.
 
 ## Instructions
-1. The following is a piece of code for demonstration, Its purpose is to calculate the sum from one to five. However, there is a bug in it, so you get an output of 10 instead of 15.
+1. The following is a piece of code for demonstration, and its purpose is to calculate the sum from one to five. However, there is a bug in it, so you will get an output of 10 instead of 15.
 
     ![Sample Code](../../assets/images/docs/debug/foo.png "Sample Code")
 
